@@ -1,12 +1,11 @@
 ﻿body {
   background-color: lightgray
 }
-.parallax-container {
-  min-height: 380px;
-  line-height: 0;
-  height: auto;
-  color: rgb(255, 255, 255);
+.card-image img{
+    min-height: 300px;
+	max-height: 300px;
 }
+
   .parallax-container .section {
     width: 100%;
   }
